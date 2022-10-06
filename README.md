@@ -1,4 +1,5 @@
-# Machine learning project, if you want to use, edit the first few lines and change what the variable for the data frame.
+# Machine learning project
 
+If you want to use the colab, you need to download the file below into your google drive. Don't put it in a folder, if you want to put it in a folder, change the directory in the 
 
 LINK TO DATASET: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
